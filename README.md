@@ -100,8 +100,3 @@ Contribuições são bem-vindas! Por favor, siga estas etapas:
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-## Contato
-
-Seu Nome - [@seu_twitter](https://twitter.com/seu_twitter) - email@exemplo.com
-
-Link do Projeto: [https://github.com/seu-usuario/map-generator](https://github.com/seu-usuario/map-generator) 
